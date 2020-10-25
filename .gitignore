@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea/
+/application.properties
+/application-local.properties
